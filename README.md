@@ -4,7 +4,8 @@ A beautifully designed **Analog Clock** built using **ReactJS** and **CSS animat
 
 ## 📸 Preview
 
-![Clock Preview](./preview.png)
+![Clock Preview]()
+![Clock Preview](./https://github.com/anishrajpoot/Analog_clock_Project-4/blob/fda1234c03368a0230e6f6841d650123d5248172/Project-4/src/assets/Screenshot%202025-06-12%20184951.png)
 
 ## 🔧 Features
 
